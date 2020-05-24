@@ -12,7 +12,7 @@ I am software developer.
 - AI, Deep Learning
 - Backend and Mobile Development
 
-## My Tech Stack ![iamge |512x397]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png)
+## My Tech Stack ![asda|512x397,20%]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png)
 
 
 ### Languages
