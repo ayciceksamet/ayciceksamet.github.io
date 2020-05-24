@@ -12,8 +12,8 @@ I am software developer.
 - AI, Deep Learning
 - Backend and Mobile Development
 
-## My Tech Stack ![]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png)
-<img src="/images/undraw_taking_notes_tjaf.png" width="30">
+## My Tech Stack ![]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png){ width=75% }
+
 
 ### Languages
 - Java, Kotlin (Backend and Mobile Development)
@@ -42,6 +42,7 @@ I am software developer.
 ### DevOPS
 - Kubernetes 
 - Docker 
+- Jenkins and Travis CI
 
 
 ### More Information
