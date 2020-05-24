@@ -7,11 +7,27 @@ published: true
 
 I am software developer.
 
-The areas which working on :
-
+## The areas which working on :
 - Computer Vision
 - Deep Learning
-- Java and Python 
+- Backend and mobile Development
+
+## My tech stack :
+
+# Languages:
+- Java, Kotlin and Python 
+
+# Framework and Libs:
+- Spring and Django Framework
+- React
+
+# Application and Data:
+- Oracle Pl/Sql
+- PostgreSql
+- 
+
+Kubernetes and Docker 
+
 
 ### More Information
 
@@ -19,4 +35,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ayciceksamet [at] gmail.com]
