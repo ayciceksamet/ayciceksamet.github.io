@@ -7,21 +7,21 @@ published: true
 
 I am software developer.
 
-## The areas which working on :
+## The areas which working on 
 - Computer Vision
 - Deep Learning
 - Backend and mobile Development
 
-## My Tech Stack :
+## My Tech Stack 
 
-### Languages:
+### Languages
 - Java, Kotlin and Python 
 
-### Framework and Libs:
+### Framework and Libs
 
-  Backend Development
+#### Backend Development
 - Spring Boot and Django Framework
-  Data Processing and Computer Vision
+#### Data Processing and Computer Vision
 - Tensorflow, Keras and OpenCV
 - React, AngularJS
 - QT Framework
