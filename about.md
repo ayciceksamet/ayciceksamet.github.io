@@ -9,13 +9,14 @@ I am software developer.
 
 ## The areas which working on 
 - Computer Vision
-- Deep Learning
-- Backend and mobile Development
+- AI, Deep Learning
+- Backend and Mobile Development
 
 ## My Tech Stack ![]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png)
 
 ### Languages
-- Java, Kotlin and Python 
+- Java, Kotlin (Backend and Mobile Development)
+- Python and C++ (Data and Signal Processing)
 
 ### Framework and Libs
 
@@ -28,15 +29,18 @@ I am software developer.
 #### UI and Frontend
 - React, AngularJS
 - QT Framework
+- AR.js
 
-### Application and Data:
+#### Application and Data:
 - Oracle PL/Sql
 - PostgreSQL
 - MongoDB / NoSql
 - Redis
-- 
+- GraphQL
 
-Kubernetes and Docker 
+### DevOPS
+- Kubernetes 
+- Docker 
 
 
 ### More Information
