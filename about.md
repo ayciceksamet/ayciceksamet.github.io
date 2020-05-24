@@ -13,6 +13,7 @@ I am software developer.
 - Backend and Mobile Development
 
 ## My Tech Stack ![]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png)
+<img src="/images/undraw_taking_notes_tjaf.png" width="30">
 
 ### Languages
 - Java, Kotlin (Backend and Mobile Development)
