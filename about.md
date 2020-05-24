@@ -14,7 +14,7 @@ I am software developer.
 
 ## My Tech Stack
 
-![asda|250x130,20%]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png){:height="50%" width="50%"}
+![]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png?s=200)
 
 
 
