@@ -2,9 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am software developer.
+
+The areas which working on :
+
+- Computer Vision
+- Deep Learning
+- Java and Python 
 
 ### More Information
 
