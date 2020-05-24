@@ -12,7 +12,7 @@ I am software developer.
 - Deep Learning
 - Backend and mobile Development
 
-## My Tech Stack 
+## My Tech Stack ![]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png)
 
 ### Languages
 - Java, Kotlin and Python 
@@ -21,8 +21,11 @@ I am software developer.
 
 #### Backend Development
 - Spring Boot and Django Framework
+
 #### Data Processing and Computer Vision
 - Tensorflow, Keras and OpenCV
+
+#### UI and Frontend
 - React, AngularJS
 - QT Framework
 
