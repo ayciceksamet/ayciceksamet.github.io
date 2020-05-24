@@ -12,7 +12,7 @@ I am software developer.
 - Deep Learning
 - Backend and mobile Development
 
-## My tech stack :
+## My Tech Stack :
 
 # Languages:
 - Java, Kotlin and Python 
