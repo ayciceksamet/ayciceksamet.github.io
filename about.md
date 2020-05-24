@@ -17,9 +17,6 @@ I am software developer.
 <img src="{{site.baseurl}}/images/undraw_taking_notes_tjaf.png" width="300" height="300">
 
 
-
-
-
 ### Languages
 - Java, Kotlin (Backend and Mobile Development)
 - Python and C++ (Data and Signal Processing)
