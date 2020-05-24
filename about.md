@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am software developer.
+A software developer.
 
 ## The areas which working on 
 - Computer Vision
@@ -45,7 +45,6 @@ I am software developer.
 - Kubernetes 
 - Docker 
 - Jenkins and Travis CI
-
 
 ### More Information
 
