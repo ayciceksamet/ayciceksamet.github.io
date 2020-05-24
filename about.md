@@ -49,7 +49,7 @@ I am software developer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My hobbies, playing with my stratocaster and painting with acrylics 
 
 ### Contact me
 
