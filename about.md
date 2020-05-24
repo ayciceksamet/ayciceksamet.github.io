@@ -14,16 +14,23 @@ I am software developer.
 
 ## My Tech Stack :
 
-# Languages:
+### Languages:
 - Java, Kotlin and Python 
 
-# Framework and Libs:
-- Spring and Django Framework
-- React
+### Framework and Libs:
 
-# Application and Data:
-- Oracle Pl/Sql
-- PostgreSql
+  Backend Development
+- Spring Boot and Django Framework
+  Data Processing and Computer Vision
+- Tensorflow, Keras and OpenCV
+- React, AngularJS
+- QT Framework
+
+### Application and Data:
+- Oracle PL/Sql
+- PostgreSQL
+- MongoDB / NoSql
+- Redis
 - 
 
 Kubernetes and Docker 
