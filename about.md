@@ -14,9 +14,7 @@ I am software developer.
 
 ## My Tech Stack
 
-![]({{site.baseurl}}/images/undraw_taking_notes_tjaf.png)
-
-<img src="{{site.baseurl}}/images/undraw_taking_notes_tjaf.png" width="100" height="100">
+<img src="{{site.baseurl}}/images/undraw_taking_notes_tjaf.png" width="300" height="300">
 
 
 
