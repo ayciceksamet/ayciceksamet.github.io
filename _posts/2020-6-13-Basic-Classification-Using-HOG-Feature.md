@@ -1,6 +1,8 @@
 ---
-published: false
+layout: post
+title: how to solve basic classification problem
 ---
+
 Today, we will learn **how to solve basic classification problem** with using HOG Features. 
 
 In traditional computer vision techniques, there are these steps:
