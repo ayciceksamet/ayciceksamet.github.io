@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mobile Image Processing - Getting Started
+published: true
 ---
 
 ## Mobile Image Processing - Getting Started
