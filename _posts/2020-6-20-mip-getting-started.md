@@ -26,11 +26,18 @@ OpenCV is the Swiss army knife of libraries to developers which working on compu
 
 A webcam or external camera is needed to take images to process. Using faster sensors and camera is essential thing to get exact frames on computer vision area. There are numerous device manufacturer in camera industry. They are in a race to produce camera having better quality, fps and high speed. 
 
+<p align="center">
+  <img  width="300" height="200" alt='Computer Vision Development Environment' src='/images/mip-getting-started/black-nikon-dslr-camera-lens.jpg'/>
+</p>
+
+
 While developing a computer vision solution system, all you need : 
 
 - Operating System ( Windows, Linux, Embedded Linux, Raspberry Pi OS etc. )
 - Hardware ( PC, Laptop, Embedded system, Raspberry Pi etc. )
 - Camera ( Webcam, External Camera, Embedded Camera in boards etc. )
+
+
 
 Imagine that all you demand is compact and combined 🙂 Of course, each solution has several capacity and performance and any specific system serves different purposes.. I just want to emphasize that development with mobile environment is enjoyable, ergonomic and painless. 
 
