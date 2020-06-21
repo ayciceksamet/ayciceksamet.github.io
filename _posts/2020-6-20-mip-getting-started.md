@@ -12,7 +12,7 @@ I am very thrilled when see the value of matrices that taken from imported image
 <p align="center">
   <figure>
   <img  width="800" height="400" alt='Computer Vision Development Environment' src='/images/mip-getting-started/laptopandmobilephone.jpeg'/>
-   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+   <figcaption>Mobile Computer Vision Development Environment.</figcaption>
   </figure>
 </p>
  
