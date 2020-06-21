@@ -28,6 +28,7 @@ A webcam or external camera is needed to take images to process. Using faster se
 
 <p align="center">
   <img  width="300" height="200" alt='Computer Vision Development Environment' src='/images/mip-getting-started/black-nikon-dslr-camera-lens.jpg'/>
+  <figcaption>High Speed Camera.</figcaption>
 </p>
 
 
@@ -37,8 +38,27 @@ While developing a computer vision solution system, all you need :
 - Hardware ( PC, Laptop, Embedded system, Raspberry Pi etc. )
 - Camera ( Webcam, External Camera, Embedded Camera in boards etc. )
 
-
+<p align="left">
+  <img  width="100" height="100" alt='Computer Vision Development Environment' src='/images/mip-getting-started/Raspberry-Pi-Zero-FL.jpg'/>
+</p>
+<p align="center">
+  <img  width="100" height="100" alt='Computer Vision Development Environment' src='/images/mip-getting-started/download.jfif'/>
+</p>
+<p align="right">
+  <img  width="100" height="100" alt='Computer Vision Development Environment' src='/images/mip-getting-started/Ubuntu_for_Raspberry_Pi_2_(16312347834).png'/>
+</p>
 
 Imagine that all you demand is compact and combined 🙂 Of course, each solution has several capacity and performance and any specific system serves different purposes.. I just want to emphasize that development with mobile environment is enjoyable, ergonomic and painless. 
 
+<p align="center">
+  <img  width="200" height="200" alt='Computer Vision Development Environment' src='/images/mip-getting-started/cameraandroid.jpeg'/>
+</p>
+
 You can practice in computer vision while drinking your coffee in a store just along your mobile phone and laptop.
+
+
+
+
+
+
+
