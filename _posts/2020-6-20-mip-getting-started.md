@@ -23,10 +23,6 @@ OpenCV is the Swiss army knife of libraries to developers which working on compu
   <img  width="600" height="400" alt='Computer Vision Development Environment' src='/images/mip-getting-started/OpenCV_Logo_with_text_svg_version.svg'/>
 </p>
 
-<p align="center">
-  <img  width="450" height="250" alt='Get it on Google Play' src='gif/1.gif'/>
-</p>
-
 A webcam or external camera is needed to take images to process. Using faster sensors and camera is essential thing to get exact frames on computer vision area. There are numerous device manufacturer in camera industry. They are in a race to produce camera having better quality, fps and high speed. 
 
 While developing a computer vision solution system, all you need : 
