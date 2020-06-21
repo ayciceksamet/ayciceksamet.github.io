@@ -10,13 +10,13 @@ Computer vision, image and video processing, these have always been trending top
   <img  width="800" height="640" alt='Computer Vision Development Environment' src='/images/mip-getting-started/laptopandmobilephone.jpeg'/>
 </p>
 
-
+OpenCV is the Swiss army knife of libraries to developers which working on computer vision. I have developed lot of projects then, this also helps me to improve my software coding techniques and my creativity. Now that I found my dream area, for the first time in my life I feel really fulfilled.
 
 <p align="center">
-  <img  width="600" height="400" alt='Computer Vision Development Environment' src='/images/mip-getting-started/laptopandmobilephone.jpeg'/>
+  <img  width="600" height="400" alt='Computer Vision Development Environment' src='/images/mip-getting-started/OpenCV_Logo_with_text_svg_version.svg'/>
 </p>
 
-OpenCV is the Swiss army knife of libraries to developers which working on computer vision. I have developed lot of projects then, this also helps me to improve my software coding techniques and my creativity. Now that I found my dream area, for the first time in my life I feel really fulfilled.
+
 
 <p align="center">
   <img  width="600" height="400" alt='Computer Vision Development Environment' src='/images/mip-getting-started/laptopandmobilephone.jpeg'/>
