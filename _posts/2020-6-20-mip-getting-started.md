@@ -4,6 +4,7 @@ title: Mobile Image Processing - Getting Started
 published: true
 ---
 
+
 Computer vision, image and video processing, these have always been trending topics in software development area. I have started my computer vision adventure using Matlab and Script Programming in the early 2010. 
 
 I am very thrilled when see the value of matrices that taken from imported image on my screen. And processing them is really fascinating thing that I have ever seen in coding world. Afterwards, Java, Python and C++ are my best friends in this journey within OpenCV library. 
@@ -62,3 +63,6 @@ You can practice in computer vision while drinking your coffee in a store just a
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkxMzE4NjQ2N119
+-->
