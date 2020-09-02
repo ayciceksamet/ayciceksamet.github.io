@@ -2,6 +2,9 @@
 layout: post
 title: Mobile Image Processing - Getting Started
 published: true
+img: images/mip-getting-started/laptopandmobilephone.jpeg
+fig-caption: # Add figcaption (optional)
+tags: [Computer Vision, Mobile Deep Learning]
 ---
 
 
