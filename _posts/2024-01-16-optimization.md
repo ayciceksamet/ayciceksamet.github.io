@@ -13,7 +13,7 @@ My first experience with mobile optimization was in 2015 when I attempted to run
 
 <p align="center">
   <figure>
-  <img width="800" height="400" alt='Optimized Mobile Processing' src='/images/mobile-optimization/mobileoptimization.jpg'/>
+  <img width="800" height="400" alt='Optimized Mobile Processing' src='/images/optimization/1.png'/>
    <figcaption>Mobile Optimized Computer Vision Pipeline.</figcaption>
   </figure>
 </p>
