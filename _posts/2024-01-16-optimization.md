@@ -2,7 +2,7 @@
 layout: post
 title: Optimizing Image Processing for Mobile Devices
 published: true
-img: mobileoptimization.jpg
+img: 1.png
 fig-caption: # Add figcaption (optional)
 tags: [Computer Vision, Mobile Optimization]
 ---
